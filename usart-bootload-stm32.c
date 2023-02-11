@@ -1,5 +1,5 @@
 /*
-Copyright (C) 2022 kumohakase (license: https://creativecommons.org/licenses/by/2.5/)
+Copyright (C) 2022 kumohakase
 Program loader for stm32 uart bootloader protocol (Load to RAM)
 Please consider supporting me using kofi.com https://ko-fi.com/kumohakase
 */
